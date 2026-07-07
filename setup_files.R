@@ -1,8 +1,4 @@
-# ============================================================
-#  SETUP: writes Code/Salmonparams.R and Code/MIPM_functions.R
-#  directly to disk -- run this ONCE before run_pi_meeting_demo.R
-#  This removes any need to manually upload/rename/place files.
-# ============================================================
+
 
 dir.create("Code", showWarnings = FALSE)
 
